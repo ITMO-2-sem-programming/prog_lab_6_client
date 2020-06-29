@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="lab_6_client_p:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lab_6_client_p</output-path>
+    <root id="root">
+      <element id="archive" name="lab_6_client_p.jar">
+        <element id="module-output" name="lab_6_client_p" />
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,32 @@
+help help
+insert 4
+Bang
+-8658
+640
+11
+4
+hip_hop
+person
+Mike
+180
+red
+italy
+1
+-1
+Kolhida
+
+
+
+
+show 4
+help filter_greater_than_singles_count
+filter_greater_than_singles_count 3
+help max_by_front_man
+max_by_front_man
+remove_key 1
+remove_key 2
+help show
+show
+remove_lower_key 20
+show
+
